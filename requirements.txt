@@ -1,0 +1,8 @@
+# ===== API 服务（前端必装）=====
+fastapi
+uvicorn
+
+# ===== 爬虫（后端采集用，前端不需要）=====
+# DrissionPage
+# beautifulsoup4
+# lxml

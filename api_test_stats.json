@@ -1,0 +1,10 @@
+{
+  "total": 10,
+  "by_category": {
+    "行政": 1,
+    "科研": 9
+  },
+  "by_priority": {
+    "medium": 10
+  }
+}
